@@ -2,7 +2,7 @@
 
 I love programming and electronics and I'm trying to upload more of my personal projects to GitHub to show a bit more of my work.
 
-I'm a fast learner and also really like to new things learn.
+I'm a fast learner and also really like to learn new things.
 
 Currently graduating at INATEL in computer engineering and working at the Cyber Security and IoT lab (www.inatel.br/csilab).
 
