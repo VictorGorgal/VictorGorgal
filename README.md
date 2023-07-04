@@ -4,7 +4,7 @@ I love programming and electronics and I'm trying to upload more of my personal 
 
 I'm a fast learner and also really like to learn new things.
 
-Currently graduating at INATEL in computer engineering and working at PD Soluções.
+Currently graduating at INATEL in computer engineering.
 
 It's quite common for me to make small side projects to try and push the boundaries of what i can do.
 
