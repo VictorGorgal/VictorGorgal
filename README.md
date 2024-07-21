@@ -1,11 +1,36 @@
-### Hi, I'm Victor 👋
+# Hi there, I'm Victor Gorgal! 👋
 
-I love programming and electronics and I'm trying to upload more of my personal projects to GitHub to show a bit more of my work.
+I am a developer with a passion for coding and making my own tools and automations. Welcome to my GitHub portfolio!
 
-I'm a fast learner and also really like to learn new things.
+## 🛠 Skills
+- **Programming Languages:** C, Dart, Java, Kotlin, Python, JavaScript
+- **Frameworks:** Flutter, Apache Tomcat, PyTorch, Tensorflow, Keras
+- **Tools & Technologies:** Firebase, AWS, SQL, Git, MQTT
+- **Other Skills:** Teamwork, creativity, problem-solving, design patterns
 
-Currently graduating at INATEL in software engineering.
+## 💼 Work Experience
+- **Mobile with native Android and Flutter**
+- **Embedded for STM32 and Pi Pico**
+- **Servers and Back-End**
+- **AI Engineering/training**
+- **PCB Design**
 
-It's quite common for me to make small side projects to try and push the boundaries of what i can do.
+## 📈 GitHub Stats
+![VictorGorgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGorgal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGorgal&layout=compact&theme=radical)
 
-Contact: victorgorgal@gmail.com
+## 🚀 Projects
+
+### [Flash memory lib with wear leveling for the Pi Pico](https://github.com/VictorGorgal/flash-memory-lib-pi-pico)
+**Description:** A library for managing flash memory sectors with wear leveling on the Pi Pico.
+
+**Tech Stack:** C, Python
+
+### [Real time prediction of energy consumption using a LSTM neural net (AI)](https://github.com/VictorGorgal/energy-consumption-prediction)
+**Description:** A project that predicts real-time energy consumption using a Long Short-Term Memory (LSTM) neural network.
+
+**Tech Stack:** Python, TensorFlow, Keras
+
+## 🤝 Let's Connect
+- [LinkedIn](https://linkedin.com/in/victorgorgal)
+- [Email](mailto:victorgorgal+g@example.com)
