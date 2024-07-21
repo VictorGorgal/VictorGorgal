@@ -5,7 +5,7 @@ I am a developer with a passion for coding and making my own tools and automatio
 ## 🛠 Skills
 - **Programming Languages:** C, Dart, Java, Kotlin, Python, JavaScript
 - **Frameworks:** Flutter, Apache Tomcat, PyTorch, Tensorflow, Keras
-- **Tools & Technologies:** Firebase, AWS, SQL, Git, MQTT
+- **Tools & Technologies:** Firebase, AWS, SQL, Git, MQTT, CMake, Batch
 - **Other Skills:** Teamwork, creativity, problem-solving, design patterns
 
 ## 💼 Work Experience
@@ -21,12 +21,12 @@ I am a developer with a passion for coding and making my own tools and automatio
 
 ## 🚀 Projects
 
-### [Flash memory lib with wear leveling for the Pi Pico](https://github.com/VictorGorgal/flash-memory-lib-pi-pico)
+### [Flash memory lib with wear leveling for the Pi Pico](https://github.com/VictorGorgal/flash-wear-leveling-lib)
 **Description:** A library for managing flash memory sectors with wear leveling on the Pi Pico.
 
-**Tech Stack:** C, Python
+**Tech Stack:** C, CMake, Batch
 
-### [Real time prediction of energy consumption using a LSTM neural net (AI)](https://github.com/VictorGorgal/energy-consumption-prediction)
+### [Real time prediction of energy consumption using a LSTM neural net (AI)](https://github.com/VictorGorgal/EnergyConsumptionForecast)
 **Description:** A project that predicts real-time energy consumption using a Long Short-Term Memory (LSTM) neural network.
 
 **Tech Stack:** Python, TensorFlow, Keras
