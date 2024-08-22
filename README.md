@@ -21,7 +21,7 @@ I am a developer with a passion for coding and making my own tools and automatio
 
 ## 🚀 Projects
 
-### [Flash memory lib with wear leveling for the Pi Pico](https://github.com/VictorGorgal/flash-wear-leveling-lib)
+### [Flash memory lib with wear leveling for the Pi Pico](https://github.com/VictorGorgal/flash_lib)
 **Description:** A library for managing flash memory sectors with wear leveling on the Pi Pico.
 
 **Tech Stack:** C, CMake, Batch
